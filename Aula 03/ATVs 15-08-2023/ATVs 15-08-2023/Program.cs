@@ -78,20 +78,13 @@ namespace ATVs_15_08_2023
                 Console.WriteLine("Digite a temperatura em celsius: ");
                 c = float.Parse(Console.ReadLine());
 
-                f = (c * (9 / 5)) + 32;
+                f = (c * 9 / 5) + 32;
 
                 Console.WriteLine("A temperatura de " + c + " ºC, é igual a: " + f);
 
                 Console.ReadKey();
 
             }
-
-
-
-
-
-
-
 
         }
     }

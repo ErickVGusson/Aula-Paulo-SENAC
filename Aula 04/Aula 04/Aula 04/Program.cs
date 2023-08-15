@@ -10,7 +10,7 @@ namespace Aula_04
     {
         static void Main(string[] args)
         {
-
+            Console.ForegroundColor = ConsoleColor.Red;
             int menu;
 
             Console.WriteLine("Menu: ");

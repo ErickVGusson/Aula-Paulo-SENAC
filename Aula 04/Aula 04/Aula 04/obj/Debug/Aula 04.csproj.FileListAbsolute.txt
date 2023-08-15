@@ -1,0 +1,8 @@
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\bin\Debug\Aula 04.exe.config
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\bin\Debug\Aula 04.exe
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\bin\Debug\Aula 04.pdb
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\obj\Debug\Aula 04.csproj.AssemblyReference.cache
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\obj\Debug\Aula 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\obj\Debug\Aula 04.csproj.CoreCompileInputs.cache
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\obj\Debug\Aula 04.exe
+C:\Users\erick.vgusson\source\repos\Aula-Paulo-SENAC\Aula 04\Aula 04\Aula 04\obj\Debug\Aula 04.pdb

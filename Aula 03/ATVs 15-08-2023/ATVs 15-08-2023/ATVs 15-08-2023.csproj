@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{46E0D8B6-1D58-44BE-A6F2-C587021A995A}</ProjectGuid>
+    <ProjectGuid>{C016761F-AC36-4177-BF03-530A438864F8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Atv1</RootNamespace>
-    <AssemblyName>Atv1</AssemblyName>
+    <RootNamespace>ATVs_15_08_2023</RootNamespace>
+    <AssemblyName>ATVs 15-08-2023</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

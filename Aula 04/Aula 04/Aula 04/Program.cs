@@ -24,7 +24,7 @@ namespace Aula_04
             Console.WriteLine("8 - Classificação de Faixa Etária");
             Console.Write("Escolha a opção: ");
             menu = int.Parse(Console.ReadLine());
-
+            Console.ForegroundColor = ConsoleColor.White;
             if (menu == 1) 
             {
 
@@ -127,15 +127,15 @@ namespace Aula_04
 
                 Console.Clear();
 
-                float peso, altura, imc;
+                double peso, altura, imc;
 
                 Console.Write("Digite o seu peso: ");
-                peso = float.Parse(Console.ReadLine());
+                peso = double.Parse(Console.ReadLine());
 
                 Console.Write("Digite a sua altura: ");
-                altura = float.Parse(Console.ReadLine());
+                altura = double.Parse(Console.ReadLine());
 
-                imc = peso / (altura * altura);
+                imc = peso / Math.Pow(altura, 2);
 
                 Console.WriteLine("IMC: " + imc);
 
@@ -146,7 +146,7 @@ namespace Aula_04
 
                 }
 
-                if (imc > 18.5 && imc < 25 )
+                if (imc >= 18.5 && imc < 25 )
                 {
 
                     Console.WriteLine("Peso normal");
